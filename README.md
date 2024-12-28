@@ -1,5 +1,5 @@
 # Projet 2022 Serre de maraîchage connectée
-**Jauste développement Qt**
+**Jauste, développement Qt**
 ## Mission
 Mon but dans ce projet est de réaliser sur un PC Window une IHM de secours qui va permettre aux maraîchers de modifier les valeurs des capteurs en cas de pannes:
 - première étape: la carte Arduino envoie les valeurs d’Humidité et de Température des deux champs au broker par MQTT, qui les envoie sur le PC pour affichage
